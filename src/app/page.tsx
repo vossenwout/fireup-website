@@ -70,8 +70,8 @@ export default function Home() {
 
           <blockquote className="bg-white rounded-2xl p-10 shadow-xl border border-gray-100">
             <p className="text-xl italic text-gray-700 leading-relaxed">
-              "The way to get startup ideas is not to try to think of startup ideas. It's to look
-              for problems, preferably problems you have yourself."
+              &quot;The way to get startup ideas is not to try to think of startup ideas. It&#39;s
+              to look for problems, preferably problems you have yourself.&quot;
             </p>
             <footer className="mt-4">
               <a
